@@ -21,7 +21,7 @@
 ------------------------------*/
 
 .welcome-text-area .area-bg::before {
-    background: url(assets/img/home/01.png) no-repeat scroll top right / cover;
+    background: url(assets/img/home/01.webp) no-repeat scroll top right / cover;
     width: 50%;
     left: auto;
     right: 0;
@@ -43,7 +43,7 @@
 
 
 .about-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/02.png") no-repeat scroll left top / 50% auto;
+    background: rgba(0, 0, 0, 0) url("assets/img/home/02.webp") no-repeat scroll left top / 50% auto;
 }
 
 .about-content ul {
@@ -167,7 +167,7 @@
 ----------------------------------*/
 
 .testmonial-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/03.png") no-repeat scroll right top / 22% auto;
+    background: rgba(0, 0, 0, 0) url("assets/img/home/03.webp") no-repeat scroll right top / 22% auto;
 }
 
 .single-testmonial-two {
@@ -753,7 +753,7 @@ label.mt10.valid {
     11. BLOG PAGE
 ------------------------------*/
 body.single-page {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/01.png") no-repeat scroll right top / 50% auto;
+    background: rgba(0, 0, 0, 0) url("assets/img/home/01.webp") no-repeat scroll right top / 50% auto;
 }
 
 .no-bg {
@@ -991,7 +991,7 @@ ul.children {
     12. HOME TWO
 -------------------------------*/
 .home-two .welcome-text-area .area-bg::before {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/heaer-bg-2.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assets/img/home/heaer-bg-2.webp") no-repeat scroll center center / cover;
     width: 100%;
 }
 
@@ -1086,7 +1086,7 @@ ul.children {
 -------------------------------*/
 
 .testimonials-style-two {
-    background: rgba(0, 0, 0, 0) url("assets/img/testmonial-bg.png") no-repeat scroll left -11px center / 50% 100%;
+    background: rgba(0, 0, 0, 0) url("assets/img/testmonial-bg.webp") no-repeat scroll left -11px center / 50% 100%;
 }
 
 .testimonials-style-two .bx-wrapper {
@@ -1484,20 +1484,20 @@ ul.children {
 }
 
 .home-three .welcome-text-area .area-bg::before {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/header-bg-3.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assets/img/home/header-bg-3.webp") no-repeat scroll center center / cover;
     left: 0;
     top: 0;
     width: 100%;
 }
 
 .report-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/cta-bg.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assets/img/cta-bg.webp") no-repeat scroll center center / cover;
 }
 
 .footer-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/footer-bg.png") no-repeat scroll center center / 100% 100%;
+    background: rgba(0, 0, 0, 0) url("assets/img/footer-bg.webp") no-repeat scroll center center / 100% 100%;
 }
 
 .footer-top-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/map-bg.png") no-repeat scroll center center;
+    background: rgba(0, 0, 0, 0) url("assets/img/map-bg.webp") no-repeat scroll center center;
 }
