@@ -1472,6 +1472,16 @@ ul.children {
     margin-bottom: 5px;
 }
 
+/* Custom styles for evenly spaced team members */
+.team-area .row1 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.single-team-four {
+    margin-bottom: 30px;
+}
 /*-----------------------------*/
 
 
