@@ -37,6 +37,11 @@
     letter-spacing: 0;
 }
 
+.text-emphasis {
+    font-weight: bold;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
 /*---------------------------
     2. ABOUT AREA
 ----------------------------*/
@@ -712,6 +717,30 @@ label.mt10.valid {
 
 .single-footer-widget a:hover {
     color: #FF7467;
+}
+
+.single-footer-widget1 ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+
+.single-footer-widget1 li {
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.single-footer-widget1 a {
+    color: white;
+}
+
+.single-footer-widget1 a:hover {
+    color: #FF7467;
+}
+
+.single-footer-widget li:hover {
+    color: #FF7467;
+    cursor: pointer;
 }
 
 .footer-social-bookmark .social-bookmark li a {
