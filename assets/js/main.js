@@ -268,3 +268,11 @@ jQuery(window).on('load', function () {
     $(".preeloader").fadeOut(1000);
 
 });
+
+/*--------------------------
+    COPYRIGHT YEAR
+----------------------------*/
+
+const year = new Date().getFullYear();
+
+document.querySelector('.js-copyright').innerHTML = `&copy;${year} DBIT SevaTech.`;
